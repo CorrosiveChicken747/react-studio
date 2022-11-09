@@ -24,7 +24,7 @@ function App() {
         alignItems: "center",
         justifyContent: "center",
       }}>
-      <h1 style={{fontSize: "100px"}}>Oren's Bakery</h1> {/* TODO: personalize your bakery (if you want) */}
+      <h1 style={{fontSize: "100px"}}>Bigly Bakery</h1> {/* TODO: personalize your bakery (if you want) */}
       <h2>Has anyone ever told you to eat their dust? Eat this yummy food instead</h2>
       </div>
 
